@@ -1,7 +1,14 @@
 # Calculator
 
-A simple calculator implemented in Python.
+This repository contains a simple calculator implemented in Python.
 
 ## Usage
 
-Run the `calculator.py` file and use the functions to perform calculations.
+To use the calculator, run the `calculator.py` file.
+
+```python
+import calculator
+
+result = calculator.add(1, 2)
+print(result)
+```
