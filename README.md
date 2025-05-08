@@ -1,2 +1,2 @@
 # arizetest
-This repository contains a basic calculator implementation.
+This repository is for testing purposes.
